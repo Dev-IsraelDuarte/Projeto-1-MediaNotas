@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MediaNotas.App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82dcc6539eb5da9304365dc7003b9f849c26164f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c512e3cd3ea2772f23677ba2a53a6464618062ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("MediaNotas.App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MediaNotas.App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
